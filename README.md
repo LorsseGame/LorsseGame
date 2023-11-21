@@ -12,8 +12,10 @@
 </p>
 
 <h3 align="left">Languages que je Connais:</h3>
-<p align="left">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  
+<p align="left">  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  
 <img src="https://img.icons8.com/color/48/null/javascript--v1.png" alt="html5" width="40" height="40"/>
-<img width="64" height="64" src="https://img.icons8.com/arcade/64/php.png" alt="php"/>
-<img width="64" height="64" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
+<img width="64" height="64" src="https://img.icons8.com/arcade/64/php.png" alt="php"  width="40" height="40"/>
+<img width="64" height="64" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"  width="40" height="40"/>
 </p>
