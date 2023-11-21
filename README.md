@@ -1,7 +1,7 @@
 <h1 align="center">LorsseGame</h1>
 <h3 align="center">Je suis un développeur web débutant</h3>
 
-- 🌱 J'apprends actuellement **HTML,CSS,JavaScript,PHP,MySQL**
+- 🌱 J'apprends actuellement **Java**
 
 - 📫 Tu peut me contacter à cette Adresse Email **lorssegame@gmail.com**
 
@@ -13,4 +13,7 @@
 
 <h3 align="left">Languages que je Connais:</h3>
 <p align="left">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  
-<img src="https://img.icons8.com/color/48/null/javascript--v1.png" alt="html5" width="40" height="40"/></p>
+<img src="https://img.icons8.com/color/48/null/javascript--v1.png" alt="html5" width="40" height="40"/>
+<img src="https://icons8.com/icon/JAOzEPu9w5iE/php" alt="html5" width="40" height="40"/>
+<img src="https://icons8.com/icon/FRRACRKRsw2s/java" alt="html5" width="40" height="40"/>
+</p>
