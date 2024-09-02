@@ -1,14 +1,13 @@
 <h1 align="center">LorsseGame</h1>
 <h3 align="center">Je suis un développeur web débutant</h3>
 
-- 🌱 J'apprends actuellement **Java**
+- 🌱 J'apprends actuellement **Le C et C#**
 
 - 📫 Tu peut me contacter à cette Adresse Email **lorssegame@gmail.com**
 
 <h3 align="left">Mais réseaux:</h3>
 <p align="left">
-<a href="https://discord.gg/LorsseGame#6466" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="LorsseGame#6466" height="30" width="40" /></a>
-<a href="https://https://twitter.com/LorsseGame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="LorsseGame" height="30" width="40" /></a>
+<a href="https://discord.gg/QemYFwPvUp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="LorsseGame#6466" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages que je Connais:</h3>
